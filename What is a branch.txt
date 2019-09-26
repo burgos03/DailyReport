@@ -1,0 +1,5 @@
+It is as if we imagine that there are several realities where these realities are branches of git:
+1.- a reality where I did the homework.
+2.-another where I did not.
+3.-and another where I know nothing about git.
+We can have a reality that stays the same in a world. Then, it joins a different reality. Once you finish your code, you can complete the initial reality by merging the changes in the other.

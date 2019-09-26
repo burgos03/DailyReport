@@ -1,0 +1,5 @@
+The Working Tree in Git is a directory (its files and subdirectories) on your file system that is associated with a repository.
+
+It's full of the files you edit, where you add new files, and from which you remove unneeded files. Any changes to the Working Tree are noted by the Index , and show up as modified files.
+
+When you open the files for a project that is being managed as a Git repository then you are access the Working Tree.

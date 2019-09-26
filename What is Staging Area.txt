@@ -1,0 +1,1 @@
+It is as if it were a box where each commit is labeled with its respective name that indicates what this commit carries or does.
